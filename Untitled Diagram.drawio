@@ -1,4 +1,4 @@
-<mxfile modified="2022-07-24T09:30:01.957Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="vrchOeFWAjU5kb-8TgHZ" version="20.2.0" type="github">
+<mxfile modified="2022-07-24T09:46:18.983Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.124 Safari/537.36 Edg/102.0.1245.44" etag="uURvM_HxryJ1eKZ2SdQx" version="20.2.0" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1182" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -124,6 +124,12 @@
         </mxCell>
         <mxCell id="ZkzCQQNSGN2xZ-9U4_TX-63" value="read Geo-replication&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="960" y="335" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkzCQQNSGN2xZ-9U4_TX-67" value="Azure DNS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="165" y="590" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZkzCQQNSGN2xZ-9U4_TX-68" value="Azure Active Directory" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
